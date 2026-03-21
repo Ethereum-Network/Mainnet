@@ -17,7 +17,7 @@ This process can take a few minutes, depending on your internet connection speed
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <b>Minimum specs</b>
 
@@ -29,7 +29,7 @@ This process can take a few minutes, depending on your internet connection speed
 
 </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <b>Recommended</b>
 
