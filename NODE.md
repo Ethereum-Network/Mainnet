@@ -1,4 +1,4 @@
-<img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-inside.4283ba2e.png&w=640&q=75?raw=true">
+<img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-inside.4283ba2e.png">
 
 ## Getting started
 _Using Command Prompt is the recommended way to install an Ethereum Mainnet Node on Windows. It automatically installs all required dependencies and completes the setup in a single ste_
