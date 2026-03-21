@@ -1,4 +1,4 @@
-#### Take full control. Run your own node.
+# Take full control. Run your own node.
 Become fully sovereign while helping secure the network. Become Ethereum.
 
 ## Getting started
