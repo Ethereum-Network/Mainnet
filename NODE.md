@@ -4,7 +4,7 @@
 Become fully sovereign while helping secure the network. Become Ethereum.
 
 ## Getting started
-_Using Command Prompt is the recommended way to install an Ethereum Mainnet Node on Windows. It automatically installs all required dependencies and completes the setup in a single ste_
+_Using Command Prompt is the recommended way to install an Ethereum Mainnet Node on Windows. It automatically installs all required dependencies and completes the setup in a single step_
 
 ### Step 1: Open Command prompt
 Press `Win + R`, type `CMD`, and press **Enter**.
