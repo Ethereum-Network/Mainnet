@@ -15,11 +15,9 @@ _After executing the command, the node will begin initializing and syncing with 
 
 This process can take a few minutes, depending on your internet connection speed.
 
-<h3>🖥️ Step 1 – Hardware</h3>
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <b>Minimum specs</b>
 
@@ -31,7 +29,7 @@ This process can take a few minutes, depending on your internet connection speed
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <b>Recommended</b>
 
