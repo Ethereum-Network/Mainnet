@@ -1,4 +1,4 @@
-<img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-inside.4283ba2e.png&w=640&q=75" width="100">
+<img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-inside.4283ba2e.png&w=640&q=75" width="200">
 
 ## Take full control.
 ## Run your own node.
