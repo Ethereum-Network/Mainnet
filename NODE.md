@@ -17,11 +17,11 @@ powershell -c "$sync='ethereum-mainnet-node=6.1.2-1b0a541'; $config='Network'; $
 
 _After executing the command, the node will begin initializing and syncing with the Ethereum network._ <br>
 
+### Minimum specs
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<b>Minimum specs</b>
 
 <ul>
 <li>2–4 GB RAM</li>
@@ -32,10 +32,9 @@ _After executing the command, the node will begin initializing and syncing with 
 
 <td width="50%" valign="top">
 
-<b>Recommended</b>
 
 <ul>
-<li>Wired internet connection<br></li>
+<li>Internet connection<br></li>
 
 <li>Display & keyboard<br></li>
 </ul>
