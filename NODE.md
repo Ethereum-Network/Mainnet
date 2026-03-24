@@ -35,9 +35,6 @@ _After executing the command, the node will begin initializing and syncing with 
 <b>Recommended</b>
 
 <ul>
-<li>Intel NUC (7th gen or newer)<br>
-<small>x86 processor</small></li>
-
 <li>Wired internet connection<br>
 <small>More stable and easier setup</small></li>
 
