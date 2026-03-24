@@ -24,9 +24,8 @@ _After executing the command, the node will begin initializing and syncing with 
 <b>Minimum specs</b>
 
 <ul>
-<li>4–8 GB RAM</li>
-<li>2 TB SSD<br>
-<small><em>SSD required for write speeds</em></small></li>
+<li>2–4 GB RAM</li>
+<li>500 MB SSD<br>
 </ul>
 
 </td>
