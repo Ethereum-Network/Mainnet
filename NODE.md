@@ -35,11 +35,9 @@ _After executing the command, the node will begin initializing and syncing with 
 <b>Recommended</b>
 
 <ul>
-<li>Wired internet connection<br>
-<small>More stable and easier setup</small></li>
+<li>Wired internet connection<br></li>
 
-<li>Display & keyboard<br>
-<small>Not needed for headless / SSH setup</small></li>
+<li>Display & keyboard<br></li>
 </ul>
 
 </td>
